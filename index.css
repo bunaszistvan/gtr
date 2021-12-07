@@ -1,0 +1,18 @@
+*{
+box-sizing: border-box;
+}
+body{
+    background-image: url("gtr.jpg");
+}
+div{
+
+    background-color:whitesmoke;
+    max-width: 400px;
+    min-width: 400px;
+    padding: 20px 20px 10px 10px;
+    border-width: 10px;
+    border-style: white dashed;
+    border-left: 10px solid red;
+    border-right: 10px solid black;
+    margin: 20px;
+}
